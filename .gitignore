@@ -1,3 +1,2 @@
-#ignores files from being tracked
-tst1.txt
-tst1.log
+*.txt
+tst.log
